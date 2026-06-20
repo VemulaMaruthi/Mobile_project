@@ -1,0 +1,15 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "uday-changes"
+  ],
+  "parent": {
+    "main": null,
+    "uday-changes": "main"
+  },
+  "order": [
+    "main",
+    "uday-changes"
+  ]
+}
